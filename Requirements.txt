@@ -1,13 +1,2 @@
-Streamlit
-Streamlit_Carousel
-Streamlit-Carousel
-dotenv
-pydub
-azure.cognitiveservices.speech
-azure
-ppprint
-pathlib
-Muzeul_Ceasului
-Dictionary_Output
-Final_Dictionary
-Output
+streamlit
+streamlit-carousel
