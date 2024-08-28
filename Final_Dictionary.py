@@ -80,7 +80,7 @@ final_dictionary =  [{'language': 'RO',
            'al patrimoniului cultural românesc, oferind vizitatorilor o '
            'incursiune captivantă în istoria ceasornicăriei și un omagiu adus '
            'pasiunii și dedicației lui Nicolae Simache.',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Output/ro-RO-EmilNeural.wav'},
+  'audio': '/Output/ro-RO-EmilNeural.wav'},
  {'language': 'EN-GB',
   'title': 'Clock Museum',
   'intro': 'The Ploiești Clock Museum, officially known as the "Nicolae '
@@ -159,7 +159,7 @@ final_dictionary =  [{'language': 'RO',
            'Romanian cultural heritage, offering visitors a captivating '
            'incursion into the history of watchmaking and a tribute to the '
            'passion and dedication of Nicolae Simache.',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Output/en-US-AvaMultilingualNeural.wav'},
+  'audio': '/Output/en-US-AvaMultilingualNeural.wav'},
  {'language': 'DE',
   'title': 'Uhrenmuseum',
   'intro': 'Das Uhrenmuseum von Ploiești, das offiziell als '
@@ -247,7 +247,7 @@ final_dictionary =  [{'language': 'RO',
            'Besuchern einen fesselnden Einblick in die Geschichte der '
            'Uhrmacherei bietet und eine Hommage an die Leidenschaft und das '
            'Engagement von Nicolae Simache darstellt.',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Output/de-DE-FlorianMultilingualNeural.wav'},
+  'audio': '/Output/de-DE-FlorianMultilingualNeural.wav'},
  {'language': 'IT',
   'title': "Museo dell'orologio",
   'intro': "Il Museo dell'Orologio di Ploiești, ufficialmente noto come "
@@ -328,7 +328,7 @@ final_dictionary =  [{'language': 'RO',
            'proprio simbolo del patrimonio culturale rumeno, che offre ai '
            "visitatori un'avvincente incursione nella storia dell'orologeria e "
            'un omaggio alla passione e alla dedizione di Nicolae Simache.',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Output/it-IT-IsabellaMultilingualNeural.wav'},
+  'audio': '/Output/it-IT-IsabellaMultilingualNeural.wav'},
  {'language': 'FR',
   'title': "Musée de l'horloge",
   'intro': "Le musée de l'horloge de Ploiești, officiellement connu sous le "
@@ -412,6 +412,6 @@ final_dictionary =  [{'language': 'RO',
            'symbole du patrimoine culturel roumain, offrant aux visiteurs une '
            "incursion captivante dans l'histoire de l'horlogerie et un hommage "
            'à la passion et au dévouement de Nicolae Simache.',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Output/fr-FR-VivienneMultilingualNeural.wav'}]
+  'audio': '/Output/fr-FR-VivienneMultilingualNeural.wav'}]
 
-image_path = ['/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Photo_Gallery/4.jpeg', '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Photo_Gallery/5.JPG', '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Photo_Gallery/7.jpg', '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Photo_Gallery/6.jpg', '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Photo_Gallery/2.jpg', '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Photo_Gallery/3.jpg', '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Muzeul_Ceasului/Photo_Gallery/1.jpg']
+image_path = ['/Photo_Gallery/4.jpeg', 'Photo_Gallery/5.JPG', 'Photo_Gallery/7.jpg', '/Photo_Gallery/6.jpg', '/Photo_Gallery/2.jpg', '/Photo_Gallery/1.jpg']
