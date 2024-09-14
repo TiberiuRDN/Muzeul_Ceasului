@@ -33,9 +33,9 @@ for x in image_path:
 # Display the content
 carousel(items=image_list, width=1.5)
 st.title(selected_entry['title'])
-st.write(selected_entry['intro'])
 if selected_entry['audio'] != 'None':
     st.audio(selected_entry['audio'])
+st.write(selected_entry['intro'])
 
 
 
